@@ -1,0 +1,274 @@
+[
+  {
+    "nome": "The Flash",
+    "descricao": "The Flash segue a história de Barry Allen, um cientista forense que ganha poderes de supervelocidade após ser atingido por um raio durante a explosão de um acelerador de partículas. Usando suas habilidades, ele protege Central City de outros meta-humanos.",
+    "ano": 2014,
+    "genero": "Ação",
+    "link": "https://pt.wikipedia.org/wiki/The_Flash_(s%C3%A9rie_de_TV_de_2014)",
+    "imagem": "https://www.indiependent.co.uk/wp-content/uploads/2016/06/The-Flash-Wallpaper-the-flash-cw-37862537-1920-1080.jpg"
+  },
+  {
+    "nome": "Dexter",
+    "descricao": "Dexter Morgan é um analista de padrões de sangue da polícia de Miami com uma vida dupla. Ele é um serial killer que caça e mata outros assassinos que escaparam da justiça, seguindo um código moral rígido.",
+    "ano": 2006,
+    "genero": "Suspense",
+    "link": "https://pt.wikipedia.org/wiki/Dexter_(s%C3%A9rie_de_televis%C3%A3o)",
+    "imagem": "https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2017/05/Dexter-banner.jpg"
+  },
+  {
+    "nome": "Suits",
+    "descricao": "Um jovem brilhante que abandonou a faculdade, Mike Ross, é contratado por um dos melhores advogados de Nova York, Harvey Specter. Eles precisam manter o segredo de que Mike não tem diploma de direito.",
+    "ano": 2011,
+    "genero": "Drama",
+    "link": "https://pt.wikipedia.org/wiki/Suits",
+    "imagem": "https://m.media-amazon.com/images/S/pv-target-images/1b8c4a7b430076cf416a4867934d6da3a2f0454ba3d8ce6f23031fdb559dc849.jpg"
+  },
+  {
+    "nome": "Peaky Blinders",
+    "descricao": "Uma saga de uma família de gângsteres na Inglaterra de 1919, centrada em uma gangue que costura lâminas de barbear nas abas de seus bonés e em seu ambicioso chefe, Tommy Shelby.",
+    "ano": 2013,
+    "genero": "Drama",
+    "link": "https://pt.wikipedia.org/wiki/Peaky_Blinders_(s%C3%A9rie_de_televis%C3%A3o)",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMThlOWE3MWEtZjM4Ny00M2FiLTkyMmYtZGY3ZTcyMzM5YmNlXkEyXkFqcGdeQWpnYW1i._V1_.jpg"
+  },
+  {
+    "nome": "Stranger Things",
+    "descricao": "Quando um garoto desaparece, sua mãe, um chefe de polícia e seus amigos devem confrontar forças sobrenaturais aterrorizantes para trazê-lo de volta.",
+    "ano": 2016,
+    "genero": "Ficção Científica",
+    "link": "https://pt.wikipedia.org/wiki/Stranger_Things",
+    "imagem": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABer7SeWc6FvkBqWtk61GwL7rshAEVCOARQZVTEJGnLXykYBlO4nbbr6gs7M650BjULuaN6hucXKr5xY2iqPAajrxXd70HawdJeuD.jpg?r=608"
+  },
+  {
+    "nome": "The Office",
+    "descricao": "Uma comédia no estilo documentário que segue o dia a dia dos funcionários de um escritório da empresa de papel Dunder Mifflin, liderados pelo gerente regional Michael Scott.",
+    "ano": 2005,
+    "genero": "Comédia",
+    "link": "https://pt.wikipedia.org/wiki/The_Office_(s%C3%A9rie_de_televis%C3%A3o_norte-americana)",
+    "imagem": "https://wordpress-cms-gc-prod-assets.quero.space/uploads/2023/01/The-Office.jpg"
+  },
+  {
+    "nome": "Breaking Bad",
+    "descricao": "Um professor de química do ensino médio com câncer terminal se junta a um ex-aluno para produzir e vender metanfetamina para garantir o futuro financeiro de sua família.",
+    "ano": 2008,
+    "genero": "Drama",
+    "link": "https://pt.wikipedia.org/wiki/Breaking_Bad",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.svg/1200px-Breaking_Bad_logo.svg.png"
+  },
+  {
+    "nome": "Brooklyn Nine-Nine",
+    "descricao": "A comédia segue o detetive Jake Peralta, um policial talentoso, mas imaturo, e sua equipe na 99ª delegacia do Brooklyn, enquanto se ajustam a um novo e sério capitão, Raymond Holt.",
+    "ano": 2013,
+    "genero": "Comédia",
+    "link": "https://pt.wikipedia.org/wiki/Brooklyn_Nine-Nine",
+    "imagem": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2021/09/brooklyn-99-andy-samberg.jpg"
+  },
+    {
+    "nome": "DNA do Crime",
+    "descricao": "Após um assalto de proporções épicas na fronteira do Brasil, policiais federais iniciam uma investigação complexa. Usando vestígios de DNA, eles desvendam uma teia de crimes e conectam os assaltantes a outros roubos, revelando uma organização criminosa de grande escala.",
+    "ano": 2023,
+    "genero": "Drama criminal",
+    "link": "https://pt.wikipedia.org/wiki/DNA_do_Crime",
+    "imagem": "https://f.i.uol.com.br/fotografia/2023/11/13/169988534965523125670cb_1699885349_3x2_rt.jpg"
+  },
+  {
+    "nome": "O Último Barão",
+    "descricao": "Drama histórico ambientado na decadência da nobreza brasileira no início do século XX.",
+    "ano": 2021,
+    "genero": "Drama Histórico",
+    "link": "https://pt.wikipedia.org/wiki/O_%C3%9Altimo_Bar%C3%A3o",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BZWU3ZTk2OGMtZmMzYi00N2RjLTg2ZDgtN2Y5NTJjN2M4YjZkXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg"
+  },
+  {
+    "nome": "Mistérios de Porto Belo",
+    "descricao": "Uma detetive retorna à sua pequena cidade natal para investigar uma série de desaparecimentos inexplicáveis.",
+    "ano": 2019,
+    "genero": "Crime/Mistério",
+    "link": "https://www.adorocinema.com/series/serie-25000/",
+    "imagem": "https://br.web.img3.acsta.net/pictures/19/08/21/17/58/3164082.jpg"
+  },
+  {
+    "nome": "A Cozinha Secreta de Madame Dubois",
+    "descricao": "Uma cozinheira parisiense na década de 1950 usa seus pratos para desvendar segredos de seus clientes.",
+    "ano": 2023,
+    "genero": "Culinária/Drama",
+    "link": "https://www.adorocinema.com/filmes/filme-284473/",
+    "imagem": "https://br.web.img3.acsta.net/pictures/23/03/09/16/22/3233122.jpg"
+  },
+  {
+    "nome": "Sangue e Neve",
+    "descricao": "Saga épica de fantasia sobre dois reinos rivais lutando pelo controle de um artefato mágico em um continente gelado.",
+    "ano": 2020,
+    "genero": "Fantasia Épica",
+    "link": "https://www.imdb.com/title/tt11198330/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BODIyNzk5NDQzM15BMl5BanBnXkFtZTgwMjg1MjY4MDI@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "nome": "Os Guardiões da Cornualha",
+    "descricao": "Um grupo de pescadores descobre que tem a responsabilidade hereditária de proteger a costa britânica de criaturas míticas.",
+    "ano": 2024,
+    "genero": "Aventura/Folclore",
+    "link": "https://www.imdb.com/title/tt13622994/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BYzY3Y2E1ZTItZGYzNC00Y2YyLTkyZGQtOTQzYmUzY2NjY2MxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+  },
+  {
+    "nome": "Crônicas do Velho Oeste",
+    "descricao": "A vida de um xerife recém-nomeado em uma cidade fronteiriça assolada por bandidos e conflitos territoriais.",
+    "ano": 2018,
+    "genero": "Western",
+    "link": "https://www.imdb.com/title/tt5511532/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODk5NjY5NjM@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "nome": "O Hospital da Rua 12",
+    "descricao": "Os desafios diários, dilemas éticos e as relações pessoais da equipe médica de um hospital público de grande movimento.",
+    "ano": 2022,
+    "genero": "Drama Médico",
+    "link": "https://pt.wikipedia.org/wiki/New_Amsterdam_(s%C3%A9rie_de_televis%C3%A3o_de_2018)",
+    "imagem": "https://br.web.img3.acsta.net/pictures/19/09/18/14/31/2630429.jpg"
+  },
+  {
+    "nome": "A Linha do Horizonte",
+    "descricao": "Acompanha a tripulação de um navio de pesquisa oceanográfica em busca de espécies marinhas raras e fenômenos climáticos.",
+    "ano": 2017,
+    "genero": "Aventura/Drama",
+    "link": "https://www.imdb.com/title/tt8362948/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMjA3NTM5ODkzOF5BMl5BanBnXkFtZTgwMTYxODA5NzM@._V1_.jpg"
+  },
+  {
+    "nome": "A Fazenda dos Sonhos Perdidos",
+    "descricao": "Uma família tenta salvar sua fazenda ancestral de ser vendida, enquanto lida com mistérios familiares enterrados há gerações.",
+    "ano": 2023,
+    "genero": "Drama Rural",
+    "link": "https://www.imdb.com/title/tt14034102/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMzM0YjYxZWMtYjA0OC00YjI0LWI4YjEtYjQzYjJkMzc5YjMyXkEyXkFqcGdeQXVyMTE5MTkxMDI2._V1_.jpg"
+  },
+  {
+    "nome": "O Círculo de Fogo",
+    "descricao": "Investigação sobre uma série de incêndios criminosos que parecem estar conectados a um culto esotérico nos anos 70.",
+    "ano": 2021,
+    "genero": "Suspense Policial",
+    "link": "https://www.imdb.com/title/tt10398498/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMjYwY2FhNTEtY2RkNi00NDY4LTljYjktNTc5YjExYjY3M2E5XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg"
+  },
+  {
+    "nome": "A Rainha de Saba",
+    "descricao": "Recontagem histórica e dramática da vida de Makeda, a lendária Rainha de Sabá, e suas interações com o Rei Salomão.",
+    "ano": 2025,
+    "genero": "Épico Histórico",
+    "link": "https://www.imdb.com/title/tt0053205/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMTg0MDIwMDUzNl5BMl5BanBnXkFtZTcwMDIzMDIzMQ@@._V1_.jpg"
+  },
+  {
+    "nome": "Detetives do Porto Antigo",
+    "descricao": "Dois detetives particulares operam em uma área portuária decadente, lidando com contrabando e casos de pessoas desaparecidas.",
+    "ano": 2016,
+    "genero": "Noir/Crime",
+    "link": "https://www.imdb.com/title/tt5057054/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMTU5ODg1NzY4MV5BMl5BanBnXkFtZTgwOTU2NDk2OTE@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "nome": "O Legado dos Monges",
+    "descricao": "Um tesouro escondido em um mosteiro medieval é procurado por historiadores e caçadores de relíquias modernos.",
+    "ano": 2019,
+    "genero": "Aventura Histórica",
+    "link": "https://pt.wikipedia.org/wiki/O_Nome_da_Rosa_(s%C3%A9rie_de_televis%C3%A3o)",
+    "imagem": "https://br.web.img3.acsta.net/pictures/19/04/29/18/05/5015221.jpg"
+  },
+  {
+    "nome": "A Escola de Dança Primavera",
+    "descricao": "As aspirações, rivalidades e sacrifícios dos jovens que frequentam uma rigorosa academia de balé clássico.",
+    "ano": 2023,
+    "genero": "Musical/Drama Jovem",
+    "link": "https://www.imdb.com/title/tt10301228/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMzQ2NzE5YjItY2YwOC00YjM5LTg0YmYtM2Y4YjQzYjQxYjYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+  },
+  {
+    "nome": "As Viagens de Marco Polo",
+    "descricao": "Baseado nas experiências do famoso explorador veneziano em suas jornadas pela Rota da Seda até a corte de Kublai Khan.",
+    "ano": 2014,
+    "genero": "Aventura Histórica",
+    "link": "https://pt.wikipedia.org/wiki/Marco_Polo_(s%C3%A9rie)",
+    "imagem": "https://flxt.tmsimg.com/assets/p10818209_b_v13_ax.jpg"
+  },
+  {
+    "nome": "Família Ferreira S/A",
+    "descricao": "Comédia sobre as desventuras e o caos diário de uma grande família ítalo-brasileira tentando gerenciar seu pequeno restaurante.",
+    "ano": 2022,
+    "genero": "Comédia Familiar",
+    "link": "https://www.imdb.com/title/tt11914804/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BZDcyY2Y5Y2EtYWI5Yy00ZDA5LWFkYjYtYjQ2Y2Y5Y2YyY2YyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+  },
+  {
+    "nome": "O Clube do Livro de Terças-Feiras",
+    "descricao": "Quatro amigas de diferentes gerações se reúnem semanalmente, usando os livros como metáforas para seus dramas pessoais.",
+    "ano": 2024,
+    "genero": "Drama Leve",
+    "link": "https://www.imdb.com/title/tt8985332/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMjYwY2FhNTEtY2RkNi00NDY4LTljYjktNTc5YjExYjY3M2E5XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg"
+  },
+  {
+    "nome": "Rastro na Floresta",
+    "descricao": "Um guarda florestal solitário se envolve na busca por um predador que ameaça a vida selvagem e os moradores da região.",
+    "ano": 2020,
+    "genero": "Suspense/Natureza",
+    "link": "https://www.imdb.com/title/tt10398498/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMjYwY2FhNTEtY2RkNi00NDY4LTljYjktNTc5YjExYjY3M2E5XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg"
+  },
+  {
+    "nome": "O Caso do Diamante Azul",
+    "descricao": "Série de época ambientada em Londres de 1890, onde um ladrão de joias famoso desafia a Scotland Yard em um jogo de gato e rato.",
+    "ano": 2017,
+    "genero": "Mistério de Época",
+    "link": "https://www.imdb.com/title/tt5182952/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODk5NjY5NjM@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "nome": "O Império de Areia",
+    "descricao": "Drama político ambientado em um reino fictício do Oriente Médio, focado nas intrigas da família real pelo trono.",
+    "ano": 2021,
+    "genero": "Drama Político",
+    "link": "https://www.imdb.com/title/tt9055714/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMjYwY2FhNTEtY2RkNi00NDY4LTljYjktNTc5YjExYjY3M2E5XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg"
+  },
+  {
+    "nome": "Vidas no Subúrbio",
+    "descricao": "Um olhar íntimo e cômico sobre as interconexões e segredos dos vizinhos em um bairro residencial aparentemente pacífico.",
+    "ano": 2018,
+    "genero": "Comédia Dramática",
+    "link": "https://pt.wikipedia.org/wiki/Little_Fires_Everywhere",
+    "imagem": "https://br.web.img3.acsta.net/pictures/20/02/20/19/02/2228559.jpg"
+  },
+  {
+    "nome": "A Lenda do Farol Esquecido",
+    "descricao": "Um jovem faroleiro tenta desvendar a verdade por trás das histórias de fantasmas que assombram o seu isolado local de trabalho.",
+    "ano": 2023,
+    "genero": "Terror/Suspense",
+    "link": "https://www.imdb.com/title/tt7980846/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMjA3NTM5ODkzOF5BMl5BanBnXkFtZTgwMTYxODA5NzM@._V1_.jpg"
+  },
+  {
+    "nome": "A Batalha dos Chefs Amadores",
+    "descricao": "Reality show de competição onde cozinheiros caseiros se enfrentam em desafios culinários de alta pressão.",
+    "ano": 2022,
+    "genero": "Reality Show/Culinária",
+    "link": "https://pt.wikipedia.org/wiki/MasterChef_Brasil",
+    "imagem": "https://static.band.uol.com.br/media/29/e9/87/29e987777122133a8862908f95c80816.jpg"
+  },
+  {
+    "nome": "Cavaleiros da Távola Redonda",
+    "descricao": "Reimaginação moderna da lenda do Rei Arthur, onde os cavaleiros são uma força policial de elite em uma cidade sombria.",
+    "ano": 2025,
+    "genero": "Fantasia Urbana/Ação",
+    "link": "https://www.imdb.com/title/tt11619040/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BYzY3Y2E1ZTItZGYzNC00Y2YyLTkyZGQtOTQzYmUzY2NjY2MxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+  },
+  {
+    "nome": "Histórias do Trem Noturno",
+    "descricao": "Série antológica onde cada episódio narra a vida e os encontros de diferentes passageiros a bordo de um trem que viaja pela América do Sul.",
+    "ano": 2019,
+    "genero": "Antologia/Drama",
+    "link": "https://www.imdb.com/title/tt10398498/",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMjYwY2FhNTEtY2RkNi00NDY4LTljYjktNTc5YjExYjY3M2E5XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg"
+  }
+]
