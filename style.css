@@ -9,6 +9,7 @@
     --secondary-color: #FFFFFF; /* Branco */
     --tertiary-color: #9aa0a6; /* Cor terciária (cinza médio) */
     --bg-color: #141414; /* Preto Netflix */
+    --accent-color: var(--primary-color); /* Cor de destaque dos links do rodapé */
 }
 
 body {
@@ -151,6 +152,34 @@ article img {
     height: 100%;
     object-fit: contain; /* Mostra a imagem inteira, mantendo a proporção */
     transition: transform 0.3s ease-in-out; /* Transição suave para o efeito de zoom */
+}
+
+/* Capa exibida quando o pôster da série não carrega */
+.card-capa {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; /* Nome da série na parte de baixo da capa */
+    gap: 0.4rem;
+    padding: 1.5rem;
+    background: linear-gradient(160deg, #3a0a0e 0%, #141414 75%); /* Vermelho escuro para o preto */
+    border-bottom: 3px solid var(--primary-color);
+}
+
+.card-capa-genero {
+    font-size: 0.75rem;
+    letter-spacing: 0.12em; /* Espaçamento entre as letras */
+    text-transform: uppercase;
+    color: var(--tertiary-color);
+}
+
+.card-capa-nome {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1.1;
+    color: var(--secondary-color);
 }
 
 .card-text-container {

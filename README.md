@@ -4,22 +4,24 @@ Este projeto é uma aplicação web simples que exibe um catálogo de séries de
 
 Este projeto foi desenvolvido como parte dos estudos na plataforma Alura.
 
+**Veja no ar:** <https://enzogaliazzo.github.io/ProjetoAlura/>
+
 ## ✨ Funcionalidades
 
 - **Listagem de Séries**: Exibe uma coleção de séries a partir de uma base de dados local.
+- **Busca e Filtro**: Busca por nome ou sinopse enquanto você digita, e filtro por gênero.
 - **Detalhes da Série**: Para cada item, são mostrados:
   - Imagem de capa
   - Nome
   - Descrição/Sinopse
   - Ano de lançamento
   - Gênero
-- **Link Externo**: Cada série possui um link que redireciona para uma página com mais informações (como Wikipédia ou IMDb).
+- **Saiba mais**: Abre uma janela com os detalhes da série e um link para uma página com mais informações (como Wikipédia ou IMDb).
+- **Capa de reserva**: Se o pôster de uma série não carregar, o card mostra uma capa com o nome e o gênero da série no lugar da imagem quebrada.
 
 ## 🖼️ Demonstração
 
-*(Sugestão: Adicione aqui um screenshot da sua aplicação em funcionamento!)*
-
-![Exemplo de como a aplicação se parece](https://via.placeholder.com/600x400.png?text=Insira+um+screenshot+do+seu+projeto+aqui)
+![Catálogo de Séries com a busca, o filtro de gênero e os cards de The Flash, Dexter e Suits](screenshot.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -37,7 +39,10 @@ ProjetoAlura/
 ├── 📄 index.html       # Arquivo principal da aplicação
 ├── 🎨 style.css         # Folha de estilos
 ├── ⚙️ script.js         # Lógica da aplicação em JavaScript
-└── 📦 data.json         # Banco de dados com as séries
+├── 📦 data.json         # Banco de dados com as séries
+├── 📄 login.html       # Tela de escolha de perfil
+├── 🎨 login.css         # Estilos da tela de perfil
+├── 🖼️ screenshot.png    # Imagem usada neste README
 └── 📄 README.md         # Documentação do projeto
 ```
 
@@ -60,18 +65,21 @@ O arquivo `data.json` contém uma lista de objetos, onde cada objeto representa 
 
 ## 🚀 Como Executar o Projeto
 
-Como este é um projeto front-end estático, você não precisa de um servidor complexo para executá-lo.
+Como este é um projeto front-end estático, basta um servidor local simples para executá-lo.
 
 1.  **Clone o repositório** (ou baixe os arquivos):
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/EnzoGaliazzo/ProjetoAlura.git
     ```
 
-2.  **Abra o arquivo `index.html`**:
-    Navegue até a pasta do projeto e abra o arquivo `index.html` diretamente no seu navegador de preferência (Google Chrome, Firefox, etc.).
+2.  **Sirva a pasta com um servidor local**, por exemplo com a extensão Live Server do VS Code ou com:
+    ```bash
+    npx serve .
+    ```
+    Abrir o `index.html` com dois cliques não funciona: o navegador bloqueia o carregamento do `data.json` quando a página é aberta direto do disco.
 
 Pronto! A aplicação será carregada e exibirá o catálogo de séries.
 
 ---
 
-Feito com ❤️ por **[Seu Nome]**.
+Feito com ❤️ por **[Enzo Rezende](https://github.com/EnzoGaliazzo)**.

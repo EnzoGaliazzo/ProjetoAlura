@@ -69,6 +69,22 @@ function renderizarCards(dadosParaRenderizar) {
             </div>
         `;
         
+        // Se o pôster não carregar, troca por uma capa com o gênero e o nome da série.
+        // Alguns sites bloqueiam o uso da imagem e devolvem 1×1 pixel em vez de dar erro.
+        const poster = article.querySelector('img');
+        const trocarPorCapa = () => {
+            const capa = document.createElement('div');
+            capa.className = 'card-capa';
+            capa.innerHTML = `<span class="card-capa-genero"></span><span class="card-capa-nome"></span>`;
+            capa.querySelector('.card-capa-genero').textContent = dado.genero;
+            capa.querySelector('.card-capa-nome').textContent = dado.nome;
+            poster.replaceWith(capa);
+        };
+        poster.addEventListener('error', trocarPorCapa, { once: true });
+        poster.addEventListener('load', () => {
+            if (poster.naturalWidth < 10) trocarPorCapa();
+        }, { once: true });
+
         // Adiciona evento de clique para o botão "Saiba mais" abrir o modal
         article.querySelector('.saiba-mais').addEventListener('click', (e) => {
             abrirModal(dado);
